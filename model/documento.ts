@@ -1,4 +1,4 @@
-import { retry } from "rxjs";
+
 
 export default 
 class Documento{
