@@ -12,7 +12,6 @@ export default class MercadoPago{
                 'X-Idempotency-Key': this.uniqueIdempotencyKey,
             },
         });
-
         return response.data.point_of_interaction.transaction_data.qr_code
     } catch (error: any) {
         if (error.response) {
