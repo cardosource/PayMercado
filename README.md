@@ -9,4 +9,5 @@ A API do Mercado Pago implementa pagamentos com Pix, uma escolha confiável e fl
 
 Nesse trabalho esta presente 2 dos 5 princípios SOLID, programação orientado a objetos mais limpo, modular e escalável.
 
-- 
+- Single Responsibility Principle (SRP)
+-  Open-Closed Principle (OCP)
