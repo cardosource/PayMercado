@@ -11,3 +11,6 @@ Nesse trabalho esta presente 2 dos 5 princípios SOLID, programação orientado 
 
 - Single Responsibility Principle (SRP)
 -  Open-Closed Principle (OCP)
+   
+**(**SRP**)**                    
+Uma classe deve ter apenas uma razão para mudar, ou seja, uma classe deve ter apenas uma responsabilidade
