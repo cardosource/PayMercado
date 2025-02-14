@@ -15,3 +15,4 @@ Nesse trabalho esta presente 2 dos 5 princípios SOLID, programação orientado 
 **(**SRP**)**                    
 Uma classe deve ter apenas uma razão para mudar, ou seja, uma classe deve ter apenas uma responsabilidade       
 **(**OCP**)**   
+Entidades de software (classes, módulos, funções, etc.) devem estar abertas para extensão, mas fechadas para modificação.
