@@ -18,3 +18,4 @@ Entidades de software (classes, módulos, funções, etc.) devem estar abertas p
 
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Pix](https://img.shields.io/badge/Pix-77B6A8?logo=pix&logoColor=fff&style=flat-square)
